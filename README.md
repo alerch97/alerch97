@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alex!
-- 👀 I’m interested in applications of Artificial Intelligence, Machine Learning and Data Science.
+- 👀 I’m interested in applications of Artificial Intelligence, Machine Learning, Data Science and Software Engineering.
 - 📫 How to reach me: contact me on LinkedIn: www.linkedin.com/in/alerch97 
 
 <!---
