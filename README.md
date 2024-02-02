@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Alex!
-- 👀 I’m interested in applications of Artificial Intelligence, Machine Learning, Data Science and Software Engineering.
+- 👀 I’m interested in Software Development and applications of Machine Learning.
+- 🐍 Python is my progamming language of choice. But I'm planning also to get more into others like C#.
 - 📫 How to reach me: contact me on LinkedIn: www.linkedin.com/in/alerch97 
 
 <!---
