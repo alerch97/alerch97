@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alex!
-- 👀 I’m interested in Data, Machine Learning and Web Apps.
+- 👀 I’m interested in Data Engineering, Machine Learning and Web Apps.
 - 🐍 Python is my progamming language of choice. But I'm planning also to get more into others like C#.
 - 📫 How to reach me: contact me on LinkedIn: www.linkedin.com/in/alerch97
 
